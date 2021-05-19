@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: coord-generator
+Version: 0.0.2
+Summary: A very basic random coordination generator
+Home-page: https://github.com/DevER-M/coord_generator/upload
+Author: Dever
+Author-email: UNKNOWN
+License: MIT
+Description: This programme can generate random coordinations 
+        very simple and easy
+        view code at : https://github.com/DevER-M/coord_generator
+        
+        Change log
+        ==========
+        
+        0.0.2(19/5/2021)
+        ------------------
+        â€¢ Added new function 
+        â€¢ Cleared code which is not needed
+Keywords: random coordination generator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='coord_generator',
-  version='0.0.2',
+  version='0.0.3',
   description='A very basic random coordination generator',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/DevER-M/coord_generator/upload',  

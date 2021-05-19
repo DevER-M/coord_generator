@@ -5,3 +5,4 @@ Change log
 ------------------
 • Added new function 
 • Cleared code which is not needed
+• Made a homepage for the project
